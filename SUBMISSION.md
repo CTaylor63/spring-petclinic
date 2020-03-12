@@ -1,6 +1,20 @@
 ## Connor Talor
 ## SUBMISSION.md
 
+### Homework 8
+
+#### Dockerfile 
+[Dockerfile](dockerfile)
+
+#### Running Docker Instance
+![Docker Instance](figures/DockerInstance.png)
+
+#### Main Page from Container
+![Web Page](figures/ContainerAccess.png)
+
+
+### Homework 5
+
 #### Forked Repo Image 
 ![Forked Repo Image](figures/SuccessfulFork.png)
 
