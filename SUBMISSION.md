@@ -4,7 +4,7 @@
 ### Homework 8
 
 #### Dockerfile 
-[Dockerfile](dockerfile)
+[Dockerfile](Dockerfile)
 
 #### Running Docker Instance
 ![Docker Instance](figures/DockerInstance.png)
